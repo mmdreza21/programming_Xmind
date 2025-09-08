@@ -24,8 +24,4 @@ These mind maps serve as visual study guides and quick references for:
 ## File Format
 
 - Created with XMind software
-- Compatible with most mind mapping applications
 
-## License
-
-[Add your preferred license here, e.g., MIT License, Creative Commons, etc.]
